@@ -12,7 +12,7 @@ permissions:
 
 env:
   # 👇 PUT YOUR M3U URL HERE
-  M3U_URL: "http://line.mag7070.eu/get.php?username=UKLY4Z&password=KRGCD7&type=m3u_plus&output=m3u8"
+  M3U_URL: "http://abc25.xyz/get.php?username=0231768061827&password=F439DE4966EC&type=m3u_plus&output=m3u8"
 
 jobs:
   generate:
